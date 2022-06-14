@@ -18,7 +18,7 @@ body {
 
   // Here i inherited the background color from config and replaced it by one line 
   @include set-background($primary-color);
-  height: 800px;
+  height: 700px;
  
 
   nav {
